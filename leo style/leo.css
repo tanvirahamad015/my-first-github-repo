@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.background{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url("../bg.jpg");
+    background-size: cover;
+}
+.overley{
+    width: 100%;
+    height: 100%;
+    font-size:16px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
